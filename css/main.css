@@ -986,7 +986,8 @@ body {
 }
 .v122_590 {
   width: 257px;
-  color: rgba(3,41,68,1);
+  /* color: rgba(3,41,68,1); */
+  color: white;
   position: absolute;
   top: 421px;
   left: 380px;
@@ -998,7 +999,8 @@ body {
 }
 .v122_591 {
   width: 230px;
-  color: rgba(3,41,68,1);
+  /* color: rgba(3,41,68,1); */
+  color: #fff;
   position: absolute;
   top: 515px;
   left: 401px;
