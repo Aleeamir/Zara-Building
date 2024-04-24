@@ -822,7 +822,7 @@ body {
   left: 0px;
   border: 1.5px solid rgba(244,120,32,1);
 }
-.v122_544 {
+/* .v122_544 {
   width: 326px;
   height: 379px;
   background: rgba(3,41,68,1);
@@ -831,7 +831,19 @@ body {
   top: 317px;
   left: 765px;
   transform: rotate(-3deg);
+} */
+.v122_544 {
+  width: 326px;
+  height: 379px;
+  background: rgba(3,41,68,1);
+  opacity: 1;
+  position: absolute;
+  top: 317px;
+  left: 765px;
+  transform: skewY(-3deg); /* Rotate upper half */
+  transform-origin: bottom; /* Set rotation origin to bottom */
 }
+
 .v122_557 {
   width: 326px;
   height: 379px;
@@ -1526,4 +1538,40 @@ body {
 .button-area {
   margin-left: 43%;
   gap: 20px;
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block {
+  width: 326px;
+  height: 379px;
+  background: rgba(3,41,68,1);
+  opacity: 1;
+  position: absolute;
+  top: 317px;
+  left: 765px;
+  transform: skewY(-3deg) rotate(3deg); /* Rotate upper half */
+  transform-origin: bottom; /* Set rotation origin to bottom */
+}
+
+.block i {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.block h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.block p {
+  font-size: 16px;
+}
+
+.block p {
+  font-size: 16px;
 }
