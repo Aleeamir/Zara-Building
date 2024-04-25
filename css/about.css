@@ -847,7 +847,7 @@ body {
 .v322_120 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -936,7 +936,7 @@ body {
 .v322_154 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -977,7 +977,7 @@ body {
 .v322_152 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -996,12 +996,12 @@ body {
 .v322_148 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_148.png");
+  /* background: url("../images/v322_148.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_145 {
   width: 24px;
@@ -1016,7 +1016,7 @@ body {
 .v322_146 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1035,7 +1035,7 @@ body {
 .v322_144 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -1072,14 +1072,14 @@ body {
   overflow: hidden;
 }
 .v261_598 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v261_598.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
+  /* left: 8px; */
+  /* border: 1.5px solid rgba(0,0,0,1); */
 }
 .v322_165 {
   width: 444px;
@@ -1238,7 +1238,6 @@ body {
 .v322_178 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1315,7 +1314,7 @@ body {
 .v322_186 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1356,7 +1355,7 @@ body {
 .v322_190 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1375,7 +1374,7 @@ body {
 .v322_194 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1394,7 +1393,7 @@ body {
 .v322_196 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -1431,14 +1430,12 @@ body {
   overflow: hidden;
 }
 .v322_200 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_200.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_202 {
   width: 444px;
@@ -1597,7 +1594,7 @@ body {
 .v322_215 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1674,7 +1671,7 @@ body {
 .v322_223 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1715,7 +1712,7 @@ body {
 .v322_227 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1734,7 +1731,7 @@ body {
 .v322_231 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -1753,7 +1750,7 @@ body {
 .v322_233 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -1790,14 +1787,12 @@ body {
   overflow: hidden;
 }
 .v322_237 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_237.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_239 {
   width: 444px;
@@ -1956,7 +1951,7 @@ body {
 .v322_252 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2045,7 +2040,7 @@ body {
 .v322_260 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2086,7 +2081,7 @@ body {
 .v322_264 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2105,12 +2100,12 @@ body {
 .v322_266 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_266.png");
+  /* background: url("../images/v322_266.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_267 {
   width: 24px;
@@ -2125,7 +2120,7 @@ body {
 .v322_268 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2144,7 +2139,7 @@ body {
 .v322_270 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1 */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -2181,14 +2176,12 @@ body {
   overflow: hidden;
 }
 .v322_274 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_274.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_350 {
   width: 444px;
@@ -2347,7 +2340,7 @@ body {
 .v322_363 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2436,7 +2429,7 @@ body {
 .v322_371 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2477,7 +2470,7 @@ body {
 .v322_375 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2496,12 +2489,12 @@ body {
 .v322_377 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_377.png");
+  /* background: url("../images/v322_377.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_378 {
   width: 24px;
@@ -2516,7 +2509,7 @@ body {
 .v322_379 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2535,7 +2528,7 @@ body {
 .v322_381 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -2572,14 +2565,12 @@ body {
   overflow: hidden;
 }
 .v322_385 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_385.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v324_461 {
   width: 444px;
@@ -2738,7 +2729,7 @@ body {
 .v324_474 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2827,7 +2818,7 @@ body {
 .v324_482 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2868,7 +2859,7 @@ body {
 .v324_486 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2887,12 +2878,12 @@ body {
 .v324_488 {
   width: 15px;
   height: 21px;
-  background: url("../images/v324_488.png");
+  /* background: url("../images/v324_488.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v324_489 {
   width: 24px;
@@ -2907,7 +2898,7 @@ body {
 .v324_490 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -2926,7 +2917,7 @@ body {
 .v324_492 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -2963,14 +2954,12 @@ body {
   overflow: hidden;
 }
 .v324_496 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v324_496.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_386 {
   width: 444px;
@@ -3129,7 +3118,7 @@ body {
 .v322_399 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3218,7 +3207,7 @@ body {
 .v322_407 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3259,7 +3248,7 @@ body {
 .v322_411 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3278,12 +3267,12 @@ body {
 .v322_413 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_413.png");
+  /* background: url("../images/v322_413.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_414 {
   width: 24px;
@@ -3298,7 +3287,7 @@ body {
 .v322_415 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3317,7 +3306,7 @@ body {
 .v322_417 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -3354,14 +3343,12 @@ body {
   overflow: hidden;
 }
 .v322_421 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_421.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_275 {
   width: 444px;
@@ -3520,7 +3507,7 @@ body {
 .v322_288 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3609,7 +3596,7 @@ body {
 .v322_296 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3650,7 +3637,7 @@ body {
 .v322_300 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3669,12 +3656,12 @@ body {
 .v322_302 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_302.png");
+  /* background: url("../images/v322_302.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_303 {
   width: 24px;
@@ -3689,7 +3676,7 @@ body {
 .v322_304 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -3708,7 +3695,7 @@ body {
 .v322_306 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -3745,14 +3732,12 @@ body {
   overflow: hidden;
 }
 .v322_310 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_310.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_422 {
   width: 444px;
@@ -3911,7 +3896,7 @@ body {
 .v322_435 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4000,7 +3985,7 @@ body {
 .v322_443 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4041,7 +4026,7 @@ body {
 .v322_447 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4060,12 +4045,12 @@ body {
 .v322_449 {
   width: 15px;
   height: 21px;
-  background: url("../images/v322_449.png");
+  /* background: url("../images/v322_449.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v322_450 {
   width: 24px;
@@ -4080,7 +4065,7 @@ body {
 .v322_451 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4099,7 +4084,7 @@ body {
 .v322_453 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -4136,14 +4121,12 @@ body {
   overflow: hidden;
 }
 .v322_457 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_457.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v324_497 {
   width: 444px;
@@ -4302,7 +4285,7 @@ body {
 .v324_510 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4391,7 +4374,7 @@ body {
 .v324_518 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4432,7 +4415,7 @@ body {
 .v324_522 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4471,7 +4454,7 @@ body {
 .v324_526 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4490,7 +4473,7 @@ body {
 .v324_528 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -4527,14 +4510,12 @@ body {
   overflow: hidden;
 }
 .v324_532 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v324_532.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v322_311 {
   width: 444px;
@@ -4693,7 +4674,7 @@ body {
 .v322_324 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4782,7 +4763,7 @@ body {
 .v322_332 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4823,7 +4804,7 @@ body {
 .v322_336 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4862,7 +4843,7 @@ body {
 .v322_340 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -4881,7 +4862,7 @@ body {
 .v322_342 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -4918,14 +4899,12 @@ body {
   overflow: hidden;
 }
 .v322_346 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v322_346.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .v324_533 {
   width: 444px;
@@ -5084,7 +5063,7 @@ body {
 .v324_546 {
   width: 20px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -5173,7 +5152,7 @@ body {
 .v324_554 {
   width: 18px;
   height: 15px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -5214,7 +5193,7 @@ body {
 .v324_558 {
   width: 20px;
   height: 17px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -5233,12 +5212,12 @@ body {
 .v324_560 {
   width: 15px;
   height: 21px;
-  background: url("../images/v324_560.png");
+  /* background: url("../images/v324_560.png"); */
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 4px;
-  border: 1px solid rgba(3,41,68,1);
+  /* border: 1px solid rgba(3,41,68,1); */
 }
 .v324_561 {
   width: 24px;
@@ -5253,7 +5232,7 @@ body {
 .v324_562 {
   width: 24px;
   height: 18px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -5272,7 +5251,7 @@ body {
 .v324_564 {
   width: 20px;
   height: 20px;
-  background: rgba(3,41,68,1);
+  /* background: rgba(3,41,68,1); */
   opacity: 1;
   position: absolute;
   top: 2px;
@@ -5309,14 +5288,12 @@ body {
   overflow: hidden;
 }
 .v324_568 {
-  width: 29px;
-  height: 36px;
-  background: url("../images/v324_568.png");
+  width: 65px;
+  height: 50px;
+  background: url("../images/iconamoon_compare-light.png");
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 8px;
-  border: 1.5px solid rgba(0,0,0,1);
 }
 .name {
   color: #fff;
