@@ -1671,3 +1671,63 @@ body {
 #search-button:hover {
   background-color: #2980b9;
 }
+
+
+
+/* hamberger  */
+/* Hide the hamburger icon initially */
+.menu-icon {
+  display: none;
+}
+
+/* Style the links for mobile */
+@media only screen and (max-width: 768px) {
+  .menu-links {
+      display: none;
+  }
+
+  /* Display the hamburger icon */
+  .menu-icon {
+      display: block;
+      cursor: pointer;
+  }
+
+  /* Style the hamburger icon */
+  .menu-icon i {
+      font-size: 24px;
+      color: #333;
+  }
+
+  /* Style the links in mobile view */
+  .v87_412 a {
+      display: block;
+      padding: 10px;
+      text-align: center;
+  }
+}
+@media only screen and (max-width: 1106px) {
+  /* .button-area{
+    margin-left: 0px;
+  } */
+  .v97_36 {
+    left: 85px;
+  }
+  .v87_409 {
+    left: 40%;
+  }
+  .v97_13 {
+    left: 5%;
+  }
+  .v97_14 {
+    left: 53%;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .v97_13 {
+    width: 250px;
+    height: 250px;
+    left: 5%;
+  }
+  
+}
